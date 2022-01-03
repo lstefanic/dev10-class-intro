@@ -1,0 +1,7 @@
+Vehicle
+--------
++ make: string
++ model: string
++ year: int
++ miles: int
+--------

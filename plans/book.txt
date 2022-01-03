@@ -1,0 +1,7 @@
+Book
+--------
++ title: string
++ author: string
++ publication_year: int
++ ISBN: int
+--------
