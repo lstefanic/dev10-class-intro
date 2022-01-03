@@ -1,3 +1,6 @@
 Animal
-----------
+--------
 + species_name: string
+--------
++ move()
++ eat()
